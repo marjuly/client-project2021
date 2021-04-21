@@ -3,6 +3,10 @@ nav {
   background-color: #0728b3;
 }
 
+.space {
+  height: 100px;
+}
+
 .navbar-brand {
   font-size: 30px;
 }
