@@ -10,3 +10,11 @@ nav {
 .navbar-brand {
   font-size: 30px;
 }
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.card-img-top {
+  filter: saturate(1.2);
+}
