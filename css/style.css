@@ -43,7 +43,7 @@ h2 {
   height: 300px;
 }
 .title2 h2 {
-  text-align: center;
+  text-align: right;
   margin-top: 120px;
 }
 
@@ -89,4 +89,14 @@ h4 {
   color: white;
   text-align: center;
   font-style: italic;
+}
+
+#hours {
+  margin-top: 125px;
+  margin-left: 5px;
+}
+
+#hours:hover {
+  filter: brightness(200%);
+  cursor: pointer;
 }
